@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/GdfyOphelie/group_project1.git
+git push -u origin master
